@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subodhpaul22
 - 👀 I’m interested in ...codeing
-- 🌱 I’m currently learning ...html
+- 🌱 I’m currently learning ...html,python
 - 💞️ I’m looking to collaborate on ...coder
 - 📫 How to reach me ...subodhpaul22@gmail.com
 - 😄 Pronouns: ...scientist
